@@ -1,0 +1,17 @@
+{
+  "name": "wiki-search-bot",
+  "version": "1.0.0",
+  "description": "Simple 'bot' for search a list of words at wikipedia",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "keywords": [],
+  "author": "Jose Antonio Cáceres Romero",
+  "license": "MIT",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.2",
+    "request": "^2.88.0",
+    "request-promise": "^4.2.4"
+  }
+}
